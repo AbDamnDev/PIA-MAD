@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Addcliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADDEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADDProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADDSucursal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADDTARJETAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CargaMasivaProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CargaMasivaSucursal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Carrito.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cobrar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Desbloquear.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Historial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HorasReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="paracliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Remember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportedecompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReporteProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RgistroDeHoras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SHOPIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
